@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Siury Lourenço 😁👩🏻‍💻😎❤️
+## Bem-vindo(a) ao perfil da Siury Lourenço 😁
 
 <div>
    <a href="https://github.com/Siurylourenco"> 
@@ -12,15 +12,15 @@
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Tailwind" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg>
+   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ### Habilidades:
 
-- **Python:** 40%
-- **Tailwind:** 20%
-- **JavaScript:** 30%
-- **HTML/CSS:** 10%
+- **Python:** ![Python](https://img.shields.io/badge/Python-40%-green)
+- **Tailwind:** ![Tailwind](https://img.shields.io/badge/Tailwind-20%-blue)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/JavaScript-30%-yellow)
+- **HTML/CSS:** ![HTML/CSS](https://img.shields.io/badge/HTML%2F%20CSS-10%-red)
 
 <br>
 
@@ -32,4 +32,3 @@
    <a href = "mailto:siurylourenco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href= target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
